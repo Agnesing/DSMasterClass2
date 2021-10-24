@@ -1,4 +1,5 @@
-# DSMasterClass2
+# DSMasterClass - Car price prediction - DataWorkshop
+https://dataworkshop.eu/pl/data-science/master-class
 Rozwiązanie konkursowe w ramach Data Science Master Class - Car price prediction
 
 Kaggle InClass Prediction Competition
